@@ -1,0 +1,11 @@
+C:\Users\Joey\source\repos\SpellTracker\SpellTracker\obj\Debug\SpellTracker.csprojAssemblyReference.cache
+C:\Users\Joey\source\repos\SpellTracker\SpellTracker\obj\Debug\SpellTracker.csproj.CoreCompileInputs.cache
+C:\Users\Joey\source\repos\SpellTracker\SpellTracker\bin\Debug\spells.json
+C:\Users\Joey\source\repos\SpellTracker\SpellTracker\bin\Debug\SpellTracker.exe.config
+C:\Users\Joey\source\repos\SpellTracker\SpellTracker\bin\Debug\SpellTracker.exe
+C:\Users\Joey\source\repos\SpellTracker\SpellTracker\bin\Debug\SpellTracker.pdb
+C:\Users\Joey\source\repos\SpellTracker\SpellTracker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Joey\source\repos\SpellTracker\SpellTracker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Joey\source\repos\SpellTracker\SpellTracker\obj\Debug\SpellTracker.csproj.CopyComplete
+C:\Users\Joey\source\repos\SpellTracker\SpellTracker\obj\Debug\SpellTracker.exe
+C:\Users\Joey\source\repos\SpellTracker\SpellTracker\obj\Debug\SpellTracker.pdb
